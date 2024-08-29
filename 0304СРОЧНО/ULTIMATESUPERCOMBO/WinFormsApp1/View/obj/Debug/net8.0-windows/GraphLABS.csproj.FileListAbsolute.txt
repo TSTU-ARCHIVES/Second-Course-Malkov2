@@ -1,0 +1,16 @@
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\bin\Debug\net8.0-windows\GraphLABS.exe
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\bin\Debug\net8.0-windows\GraphLABS.deps.json
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\bin\Debug\net8.0-windows\GraphLABS.runtimeconfig.json
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\bin\Debug\net8.0-windows\GraphLABS.dll
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\bin\Debug\net8.0-windows\GraphLABS.pdb
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.csproj.GenerateResource.cache
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.AssemblyInfoInputs.cache
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.AssemblyInfo.cs
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.csproj.CoreCompileInputs.cache
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.dll
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\refint\GraphLABS.dll
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.pdb
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\GraphLABS.genruntimeconfig.cache
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\ref\GraphLABS.dll
+E:\второй курс\2сем\АИСД\лобороторный\ULTIMATESUPERCOMBO\WinFormsApp1\View\obj\Debug\net8.0-windows\View.ViewForm.resources

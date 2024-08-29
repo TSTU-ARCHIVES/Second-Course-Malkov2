@@ -1,0 +1,14 @@
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\bin\Debug\net8.0\StarDemo.exe
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\bin\Debug\net8.0\StarDemo.deps.json
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\bin\Debug\net8.0\StarDemo.runtimeconfig.json
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\bin\Debug\net8.0\StarDemo.dll
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\bin\Debug\net8.0\StarDemo.pdb
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\StarDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\StarDemo.AssemblyInfoInputs.cache
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\StarDemo.AssemblyInfo.cs
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\StarDemo.csproj.CoreCompileInputs.cache
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\StarDemo.dll
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\refint\StarDemo.dll
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\StarDemo.pdb
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\StarDemo.genruntimeconfig.cache
+E:\второй курс\2сем\АИСД\практик\И Я НАВЕЧНО В ЭТОМ ФАЙЛЕЕ\StarDemo\StarDemo\obj\Debug\net8.0\ref\StarDemo.dll

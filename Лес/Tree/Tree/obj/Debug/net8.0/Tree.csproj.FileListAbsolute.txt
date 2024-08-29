@@ -1,0 +1,11 @@
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\bin\Debug\net8.0\Tree.deps.json
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\bin\Debug\net8.0\Tree.dll
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\bin\Debug\net8.0\Tree.pdb
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\Tree.AssemblyInfoInputs.cache
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\Tree.AssemblyInfo.cs
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\Tree.csproj.CoreCompileInputs.cache
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\Tree.dll
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\refint\Tree.dll
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\Tree.pdb
+E:\второй курс\2сем\АИСД\лобороторный\ле срук\Tree\Tree\obj\Debug\net8.0\ref\Tree.dll

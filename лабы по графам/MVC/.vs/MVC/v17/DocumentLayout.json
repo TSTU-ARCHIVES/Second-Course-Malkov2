@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\graph.bellmanfordalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\graph.bellmanfordalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\graph.kruskalalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\graph.kruskalalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\controllers\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\controllers\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\graph.floydwarshallalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\graph.floydwarshallalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\graph.dijkstraalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\graph.dijkstraalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|e:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0430\u0438\u0441\u0434\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\mvc\\view\\models\\graph.primalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633A43DC-4E5A-41D1-823D-AD12F9FBEFBE}|View\\View.csproj|solutionrelative:view\\models\\graph.primalgorythm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\\\u0412\u0421\u0415 \u042D\u0422\u0418 \u0421\u0423\u041A\u0418 \u0425\u041E\u0422\u042F\u0422 \u0412 \u041C\u041E\u0419 \u041B\u0410\u0411\u0418\u0420\u0418\u041D\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extentions.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Controllers\\Extentions.cs",
+              "RelativeDocumentMoniker": "View\\Controllers\\Extentions.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Controllers\\Extentions.cs",
+              "RelativeToolTip": "View\\Controllers\\Extentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:17:18.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.BellmanFordAlgorythm.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.BellmanFordAlgorythm.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Graph.BellmanFordAlgorythm.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.BellmanFordAlgorythm.cs",
+              "RelativeToolTip": "View\\Models\\Graph.BellmanFordAlgorythm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:37:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Edge.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Edge.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Edge.cs",
+              "RelativeToolTip": "View\\Models\\Edge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:50:46.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Graph.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.cs",
+              "RelativeToolTip": "View\\Models\\Graph.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAWwH0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:50:11.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphController.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Controllers\\GraphController.cs",
+              "RelativeDocumentMoniker": "View\\Controllers\\GraphController.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Controllers\\GraphController.cs",
+              "RelativeToolTip": "View\\Controllers\\GraphController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwAgBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.KruskalAlgorythm.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.KruskalAlgorythm.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Graph.KruskalAlgorythm.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.KruskalAlgorythm.cs",
+              "RelativeToolTip": "View\\Models\\Graph.KruskalAlgorythm.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:21.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Graph.DijkstraAlgorythm.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.DijkstraAlgorythm.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Graph.DijkstraAlgorythm.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.DijkstraAlgorythm.cs",
+              "RelativeToolTip": "View\\Models\\Graph.DijkstraAlgorythm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:01:14.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Graph.FloydWarshallAlgorythm.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.FloydWarshallAlgorythm.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Graph.FloydWarshallAlgorythm.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.FloydWarshallAlgorythm.cs",
+              "RelativeToolTip": "View\\Models\\Graph.FloydWarshallAlgorythm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:19:00.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Graph.PrimAlgorythm.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.PrimAlgorythm.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Graph.PrimAlgorythm.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Graph.PrimAlgorythm.cs",
+              "RelativeToolTip": "View\\Models\\Graph.PrimAlgorythm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:47.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Vertex.cs",
+              "RelativeDocumentMoniker": "View\\Models\\Vertex.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043B\u043E\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043D\u044B\u0439\\\u043B\u0430\u0431\u044B \u043F\u043E \u0433\u0440\u0430\u0444\u0430\u043C\\MVC\\View\\Models\\Vertex.cs",
+              "RelativeToolTip": "View\\Models\\Vertex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:50:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\\\u0412\u0421\u0415 \u042D\u0422\u0418 \u0421\u0423\u041A\u0418 \u0425\u041E\u0422\u042F\u0422 \u0412 \u041C\u041E\u0419 \u041B\u0410\u0411\u0418\u0420\u0418\u041D\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\\\u0412\u0421\u0415 \u042D\u0422\u0418 \u0421\u0423\u041A\u0418 \u0425\u041E\u0422\u042F\u0422 \u0412 \u041C\u041E\u0419 \u041B\u0410\u0411\u0418\u0420\u0418\u041D\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\\\u0410\u0418\u0421\u0414\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\\\u0412\u0421\u0415 \u042D\u0422\u0418 \u0421\u0423\u041A\u0418 \u0425\u041E\u0422\u042F\u0422 \u0412 \u041C\u041E\u0419 \u041B\u0410\u0411\u0418\u0420\u0418\u041D\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\\\u0412\u0421\u0415 \u042D\u0422\u0418 \u0421\u0423\u041A\u0418 \u0425\u041E\u0422\u042F\u0422 \u0412 \u041C\u041E\u0419 \u041B\u0410\u0411\u0418\u0420\u0418\u041D\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:31:06.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

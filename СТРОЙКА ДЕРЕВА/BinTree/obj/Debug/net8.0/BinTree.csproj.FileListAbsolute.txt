@@ -1,0 +1,28 @@
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\bin\Debug\net8.0\BinTree.exe
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\bin\Debug\net8.0\BinTree.deps.json
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\bin\Debug\net8.0\BinTree.runtimeconfig.json
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\bin\Debug\net8.0\BinTree.dll
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\bin\Debug\net8.0\BinTree.pdb
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\BinTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\BinTree.AssemblyInfoInputs.cache
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\BinTree.AssemblyInfo.cs
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\BinTree.csproj.CoreCompileInputs.cache
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\BinTree.dll
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\refint\BinTree.dll
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\BinTree.pdb
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\BinTree.genruntimeconfig.cache
+E:\второй курс\2сем\АИСД\лобороторный\BinTree\obj\Debug\net8.0\ref\BinTree.dll
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\bin\Debug\net8.0\BinTree.exe
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\bin\Debug\net8.0\BinTree.deps.json
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\bin\Debug\net8.0\BinTree.runtimeconfig.json
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\bin\Debug\net8.0\BinTree.dll
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\bin\Debug\net8.0\BinTree.pdb
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\BinTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\BinTree.AssemblyInfoInputs.cache
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\BinTree.AssemblyInfo.cs
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\BinTree.csproj.CoreCompileInputs.cache
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\BinTree.dll
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\refint\BinTree.dll
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\BinTree.pdb
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\BinTree.genruntimeconfig.cache
+E:\второй курс\2сем\АИСД\практик\СТРОЙКА(НЕ КОММУНИЗМА) ДЕРЕВА\BinTree\obj\Debug\net8.0\ref\BinTree.dll
